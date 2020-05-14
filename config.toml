@@ -38,4 +38,4 @@ theme = "hugo-sustain"
   name = "resume"
   identifier = "resume"
   weight = 300
-  url = "/Madison Brenner Resume - 4.6.20.pdf/"
+  url = "Madison Brenner Resume - 4.6.20.pdf"
